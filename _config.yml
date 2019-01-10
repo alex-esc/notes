@@ -1,0 +1,33 @@
+###########
+# site.title, site.url, site.author.name
+
+title:   'YOUR BLOG TITLE GOES HERE'
+author: YOUR NAME GOES HERE
+  name:  'YOUR BLOG TITLE GOES HERE'
+description:  A DESCRIPTION FOR YOUR BLOG GOES HERE
+
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: ''
+## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is
+url:  'https://YOUR USERNAME GOES HERE.github.io/'
+
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
