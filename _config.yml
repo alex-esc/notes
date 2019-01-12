@@ -1,21 +1,22 @@
-###########
-# site.title, site.url, site.author.name
-
 title:   'YOUR BLOG TITLE GOES HERE'
-author: YOUR NAME GOES HERE
+author:
   name:  'YOUR BLOG TITLE GOES HERE'
 description:  A DESCRIPTION FOR YOUR BLOG GOES HERE
-
-## note: 
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: ''
-## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is
 url:  'https://YOUR USERNAME GOES HERE.github.io/'
 
+## Change this information for your own
+
+## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is.
+
+
+##############
+# Problems? if so go to the link below and read it.
+
+#####   https://github.com/henrythemes/jekyll-minimal-theme/blob/master/README.md
 
 ########
-# more settings
+# more settings, you can ignore these.
 
 markdown: kramdown
 
