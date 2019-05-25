@@ -3,6 +3,8 @@ layout: default
 title: Archive
 ---
 
+Hello
+
 <h1>Archive</h1>
 
 {% for post in site.posts %}
