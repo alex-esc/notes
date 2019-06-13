@@ -31,7 +31,7 @@ In the spirit of bloging this tutorial will be divided into several blog posts, 
 
 In the blog archive you will find a list in reverse chronological order of all the post in the blog, use it to navigate between lessons.
 
-Well this has been lesson zero, ill se you on lesson 1.
+Well this has been lesson zero, I'll see you on lesson 1.
 
 At the top of the screen you will see the name of the blog **in big bold letters** and besides it you will see click-able links that say *Subscribe Archive About Me*. Click on the archive to see the list of posts.
 
