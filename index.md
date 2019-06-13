@@ -26,9 +26,7 @@ excerpt_separator: <!--more-->
 {% endfor %}
 
 
-## More posts
-
-Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.
+## Previous posts
 
 
 {% for post in site.posts limit:5 offset:1 %}
@@ -46,8 +44,13 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
 
 {% endfor %}
 
+
+## Older posts
+
+Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.
+
+
 All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
- 
