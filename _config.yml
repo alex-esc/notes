@@ -4,7 +4,7 @@
 title:   'Site Pre-set'
 author: 
   name:  'Site Pre-set'
-description:  'A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.'
+description:  A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
