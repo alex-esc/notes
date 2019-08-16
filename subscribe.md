@@ -44,7 +44,7 @@ title: Subscribe
 
 
 
-All my blog posts are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>..
+All my blog posts are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>.
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
