@@ -54,7 +54,7 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
 
 See my [future posts list](up-next.md).
 
-All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
+All my blog posts are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>..
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
