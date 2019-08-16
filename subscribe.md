@@ -8,30 +8,30 @@ title: Subscribe
 ---
 
 <div style="text-align:center">    
-  <a href="https://alex-esc.github.io/posts/feed.xml">RSS feed</a>
+  <a href="{{ site.url }}{{ site.path }}/feed.xml">RSS feed</a>
 </div>
 
 
 <div style="text-align:center">    
-  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail</a>*
+  <a href="{{ site.other.emaillist }}">Via e-mail</a>*
 </div>
 
 
 <div style="text-align:center">    
-  <a href="https://bots.tinysubversions.com/u/alex_esc_blog_posts">Via Mastodon</a>
+  <a href="{{ site.other.activitypubfeed }}">Via Mastodon</a>
 </div>
 
 <div style="text-align:center">    
-  <a href="https://twitter.com/alex_esc_tweets">Via twitter</a>
+  <a href="{{ site.other.twitterfeed }}">Via twitter</a>
 </div>
 
 
 <div style="text-align:center">    
-  <a href="https://www.reddit.com/r/alex_esc_reddit/">Via reddit</a>
+  <a href="{{ site.other.comments }}">Comment & discuss</a>
 </div>
 
 <div style="text-align:center">    
-  <a href="https://medium.com/@alexesc">Highlights on medium</a>
+  <a href="{{ site.other.mediumfeed }}">Highlights on medium</a>
 </div>
 
 

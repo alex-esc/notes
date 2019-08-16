@@ -19,7 +19,7 @@ The content on this archive is written by Alex Esc. ([about me][me]) and its lic
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
-[me]: https://alex-esc.github.io/en_us/pages/about.html
+[me]: {{ site.about }}
 
 # Posts in reverse chronological oder
 
