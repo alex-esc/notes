@@ -8,10 +8,9 @@ title: Welcome
 
 ## All posts
 
-All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
+All my blog posts are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>..
 
 
-[l]: https://creativecommons.org/licenses/by-sa/4.0/
 
 {% for post in site.posts %}
 
