@@ -1,7 +1,9 @@
 ###########
 # site.title, site.url, site.author.name
+# Use '' arround all settings, if a setting contains a special characters you must use "", if the build fails check for '' and ""
 
-title:   'Site Pre-set'
+
+title:   "Site Pre-set"
 author: 
   name:  'alex-esc'
 description:  A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.
