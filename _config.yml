@@ -19,8 +19,6 @@ baseurl: '/post-clone'
 other:
   about: 'https://alex-esc.github.io/en_us/pages/about.html'
   comments: 'https://www.reddit.com/r/alex_esc_reddit/'
-  about: 'https://alex-esc.github.io/pages/about.html'
-  language: 'https://alex-esc.github.io/language.html'
 
 
 ########
