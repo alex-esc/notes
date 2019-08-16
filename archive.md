@@ -23,7 +23,7 @@ The content on this archive is written by Alex Esc. (<a href="{{ site.about }}">
 
 
 
-<a href="{{ site.about }}">about me</a>
+<a href="{{ site.other.about }}">about me</a>
 
 # Posts in reverse chronological oder
 
