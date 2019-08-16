@@ -39,7 +39,7 @@ excerpt_separator: <!--more-->
     </a>
   </h3>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content | strip_html | truncatewords: 50 }}
+  {{ post.excerpt | strip_html }}
 </article>
 
 {% endfor %}
@@ -49,6 +49,10 @@ excerpt_separator: <!--more-->
 
 Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.
 
+
+## In the works
+
+See my [future posts list](up-next.md).
 
 All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
 

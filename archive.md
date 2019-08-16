@@ -3,14 +3,25 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Navigating the archive
 
-Find a specific post here, to see all the posts in one place [click here](all.md), you can also [download the archive][dl] for offline view.
+* [Latest blog post](index.md)
+* [All content in one page](all.md)
+* [Download for offline view][dl]
 
-All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
+# Search
+
+Press `f3` on desktop or tap `find in page` on mobile to search for keywords on any page listed above.
+
+# About the content
+
+The content on this archive is written by Alex Esc. ([about me][me]) and its licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
+[me]: https://alex-esc.github.io/en_us/pages/about.html
+
+# Posts in reverse chronological oder
 
 {% for post in site.posts %}
 

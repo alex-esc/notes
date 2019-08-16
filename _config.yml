@@ -1,16 +1,26 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Blog Posts By Alex-Esc'
+title:   'Site Pre-set'
 author: 
-  name:  'Blog Posts'
-description:  My personal blog
+  name:  'Site Pre-set'
+description:  'A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: /posts 
-url:  'https://alex-esc.github.io/posts/'
+path: '/post-clone'
+url:  'https://alex-esc.github.io'
+baseurl: '/post-clone'
+
+## Menu buttons
+
+
+other:
+  about: 'https://alex-esc.github.io/en_us/pages/about.html'
+  comments: 'https://www.reddit.com/r/alex_esc_reddit/'
+  about: 'https://alex-esc.github.io/pages/about.html'
+  language: 'https://alex-esc.github.io/language.html'
 
 
 ########
@@ -31,5 +41,10 @@ exclude:
 safe: true
 lsi: false
 
+plugins:
+  - jekyll-redirect-from
+
 excerpt_separator: <!--more-->
 
+kramdown:
+  auto_ids: true # Auto-generate ID's for headings
