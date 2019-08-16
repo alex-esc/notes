@@ -3,7 +3,7 @@
 
 title:   'Site Pre-set'
 author: 
-  name:  'My name'
+  name:  'alex-esc'
 description:  A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.
 
 ## note: 
@@ -23,6 +23,9 @@ other:
   activitypubfeed: https://bots.tinysubversions.com/u/alex_esc_blog_posts
   twitterfeed: https://twitter.com/alex_esc_tweets
   mediumfeed: https://medium.com/@alexesc
+  licenselink: https://creativecommons.org/licenses/by-sa/4.0/
+  
+licensename: Creative Commons Attribution-ShareAlike 4.0 International
 
 ########
 # more settings

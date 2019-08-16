@@ -15,13 +15,19 @@ Press `f3` on desktop or tap `find in page` on mobile to search for keywords on 
 
 # About the content
 
-The content on this archive is written by {{ site.author.name }} (<a href="{{ site.other.about }}">about me</a>) and its licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
+The content on this archive is written by {{ site.author.name }} (<a href="{{ site.other.about }}">about me</a>) and its licensed under [Creative Commons Attribution-ShareAlike 4.0 International][l].
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
 [me]: {{ site.about }}
 
 {{ site.author.name }}
+
+
+
+<a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>
+
+
 
 <a href="{{ site.other.about }}">about me</a>
 
