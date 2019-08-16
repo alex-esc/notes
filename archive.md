@@ -18,18 +18,7 @@ Press `f3` on desktop or tap `find in page` on mobile to search for keywords on 
 The content on this archive is written by {{ site.author.name }} (<a href="{{ site.other.about }}">about me</a>) and its licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>.
 
 
-[l]: https://creativecommons.org/licenses/by-sa/4.0/
-[me]: {{ site.about }}
 
-{{ site.author.name }}
-
-
-
-<a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>
-
-
-
-<a href="{{ site.other.about }}">about me</a>
 
 # Posts in reverse chronological oder
 
