@@ -4,6 +4,7 @@ title: Welcome
 excerpt_separator: <!--more-->
 ---
 
+{{site.description}}
 
 
 ## Latest Post
