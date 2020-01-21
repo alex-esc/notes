@@ -3,17 +3,17 @@
 # Use '' arround all settings, if a setting contains a special characters you must use "", if the build fails check for '' and ""
 
 
-title:   "Site Pre-set"
+title:   "Notes"
 author: 
   name:  'alex-esc'
-description:  A generic, simple site by alex-esc, forked from henrythemes' jekyll-minimal-theme.
+description:  My personal notes and documents from school.
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: '/post-clone'
+path: '/notes'
 url:  'https://alex-esc.github.io'
-baseurl: '/post-clone'
+baseurl: '/notes'
 
 ## Menu buttons
 
