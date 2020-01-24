@@ -20,10 +20,14 @@ excerpt_separator: <!--more-->
       {{ post.title }}
     </a>
   </h1>
-  <a href="https://github.com/alex-esc/notes/blob/master/{{page.relative_path}}">
+
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  <div class="post-date">
+    <a href="https://github.com/alex-esc/notes/blob/master/ {{page.relative_path}} ">
       [edit]
     </a>
-  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  </div>
+  
   {{ post.content }}
 </article>
 
