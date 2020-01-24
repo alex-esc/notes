@@ -21,9 +21,8 @@ excerpt_separator: <!--more-->
     </a>
   </h1>
 
-  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  <div class="post-date">
-    <a href="{{site.editurl}}{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}">
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}
+    <a href="{{site.editurl}}{{page.relative_path}}">
       [edit]
     </a>
   </div>
