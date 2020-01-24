@@ -5,7 +5,6 @@ title: Archive
 
 # Navigating the archive
 
-* [Latest blog post](index.md)
 * [All content in one page](all.md)
 * [Download for offline view][dl]
 
@@ -20,7 +19,7 @@ The content on this archive is written by {{ site.author.name }} (<a href="{{ si
 
 
 
-# Posts in reverse chronological oder
+# Notes in reverse chronological oder
 
 {% for post in site.posts %}
 
