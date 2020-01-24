@@ -14,6 +14,7 @@ description:  My personal notes and documents from school.
 path: '/notes'
 url:  'https://alex-esc.github.io'
 baseurl: '/notes'
+editurl: https://github.com/alex-esc/notes/blob/master/
 
 ## Menu buttons
 
