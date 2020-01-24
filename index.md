@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
   </h1>
 
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}
-    <a href="{{site.editurl}}{{page.relative_path}}">
+    <a href="{{site.editurl}}{{page.path}}">
       [edit]
     </a>
   </div>
