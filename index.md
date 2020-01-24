@@ -7,7 +7,12 @@ excerpt_separator: <!--more-->
 {{site.description}}
 
 
-{% for post in site.posts %}
+## Latest note
+
+
+
+{% for post in site.posts limit:1 %}
+
 
 <article class='post'>
   <h1 class='post-title'>
@@ -21,7 +26,26 @@ excerpt_separator: <!--more-->
 
 {% endfor %}
 
-See my [future posts list](up-next.md).
+
+## Previous notes
+
+
+{% for post in site.posts limit:5 offset:1 %}
+
+
+<article class='post'>
+  <h3>
+    <a href="{{ site.path }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h3>
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  {{ post.excerpt | strip_html }}
+</article>
+
+{% endfor %}
+
+
 
 All my notes are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>.
 
