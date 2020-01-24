@@ -6,7 +6,9 @@ excerpt_separator: <!--more-->
 
 {{site.description}}
 
+[New][docli]
 
+[docli]: https://github.com/alex-esc/notes/new/master/_posts
 
 {% for post in site.posts %}
 
