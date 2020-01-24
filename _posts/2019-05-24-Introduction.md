@@ -7,7 +7,7 @@ title: "Lesson 0 - Introduction"
 
 ## Write a bunch. 
 
-For me writing is therapeutic and cathartic. There's nothing more satisfying than having and idea and presenting it in a clever and easy to understand way.
+For me writing is therapeutic and cathartic. <!--more--> There's nothing more satisfying than having and idea and presenting it in a clever and easy to understand way.
 
 If you have read my blog you know I have an urge to explain both technical concepts and ramble on and on about internet culture.
 
