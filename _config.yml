@@ -3,7 +3,7 @@
 # Use '' arround all settings, if a setting contains a special characters you must use "", if the build fails check for '' and ""
 
 
-title:   "Notes"
+title:   "Notes & Documents"
 author: 
   name:  'alex-esc'
 description:  My personal notes and documents from school.
