@@ -11,4 +11,3 @@ Cuando comenzó la actuación los miembros del equipo se dieron cuenta como los 
 # Observación Trabajo en equipo
 
 Cuando planeamos el sueño a actuar algunos miembros del equipo fueron reservados, dejaron que quienes tomaron la iniciativa de dar ideas para el sueño dictaran la mayoría de las ideas principales. Cuando encontramos el sueño a representar rápidamente nos volvimos atentos a quien lo soñó. Después consultamos el guion antes de actuar para una mejor idea de nuestros papeles. 
-MarkdownHTMLPreview112 words
