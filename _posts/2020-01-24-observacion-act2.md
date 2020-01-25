@@ -1,5 +1,5 @@
 ---
-layout: 'default'
+layout: 'post'
 title: 'Actividad 2, metodos de observacion'
 ---
 
