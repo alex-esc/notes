@@ -14,7 +14,7 @@ Urie Bronfenbrenner (1917-2005) observo y estudio el coeficiente intelectual (*I
 
 ## 5 sistemas
 
-### Micro-sistema
+### Microsistema
 
 Hablando de un niño (infante), el micro-sistema esta formado de aquellos factors más cercanos al individuo. Familia, vecindad, escuela. Aquí la formación tiene *doble dirección*, el niño influencia a su alrededor y viceversa.
 
