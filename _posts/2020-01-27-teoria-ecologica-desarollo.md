@@ -24,4 +24,8 @@ Hablando de un niño (infante), el micro-sistema esta formado de aquellos factor
 
 ### Macrosistema
 
+El ultimo, y más grande, factor restante - la sociedad por completo. Cuando hablamos de valores culturales, ideologías, sistemas politicos y económicos estamos hablando del macrosistema. Este funciona como kernel para los exosistemas.
+
 ### Cronosistema
+
+Si el análisis del desarrollo ecológico termina aquí, quedaría incompleta la lista de factores de desarrollo sin tomar en cuenta *el tiempo*. El cronosistema son los cambios fisiológicos que ocurren en algún punto del desarrollo, como también los momentos clave del desarrollo. Como la perdida de un familiar. Es diferente el desarrollo en la era industrial contra la era informática, el eje del cronosistema también se refiere a esta clase de tiempo. Sin pensar en el tiempo, el desarrollo carecería de enfoque.
