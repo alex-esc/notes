@@ -1,3 +1,11 @@
+---
+layout: 'post'
+title: 'Teoría Ecológica del desarrollo'
+course: 'metodos-técnicas-observación'
+semester: '1'
+---
+
+
 # Teoría Ecológica del desarrollo 
 
 ## 5 sistemas
