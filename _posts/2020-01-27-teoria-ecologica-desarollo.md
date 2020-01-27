@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: 'Teoría Ecológica del desarrollo'
+title: 'Urie Bronfenbrenner: La Teoría Bio-Ecológica del desarrollo'
 course: 'metodos-técnicas-observación'
 semester: '1'
 ---
