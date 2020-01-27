@@ -6,7 +6,11 @@ semester: '1'
 ---
 
 
-# Teoría Ecológica del desarrollo 
+# Teoría Ecológica del desarrollo
+
+El desarrollo no viene meramente del individuo, al nacer, crecer y desarrollarse en compañía; en sociedad; es evidente que el comportamiento, ó mas específicamente, el desarrollo del comportamiento viene tanto de afuera como de adentro de la mente de un individuo. Un análisis en base a sistemas, como el de los estructuralistas, estudian como partes de un todo informa el comportamiento. Pero una perspectiva ecológica, o sociológica, observa y estudia la interacción entre sistemas. De aquí la teoría ecológica del desarrollo humano, o el *modelo social ecológico* en general.
+
+Urie Bronfenbrenner (1917-2005) observo y estudio el coeficiente intelectual (*IQ*) en diferentes contextos socioeconómicos, de aquí su teoría ecológica del desarrollo humano. Esta teoría analiza los alrededores de un individuo, enfocándose en cinco sistemas que afectan el desarrollo de una persona:
 
 ## 5 sistemas
 
