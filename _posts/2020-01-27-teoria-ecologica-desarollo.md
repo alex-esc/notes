@@ -3,6 +3,7 @@ layout: 'post'
 title: 'Urie Bronfenbrenner: La Teoría Bio-Ecológica del desarrollo'
 course: 'metodos-técnicas-observación'
 semester: '1'
+tags: 'Metodos y técnicas de observación, Primer Semestre'
 ---
 
 
