@@ -5,7 +5,7 @@ title: Archive
 
 course: 'metodos-técnicas-observación'
 
-{% for post in site.course.metodos-técnicas-observación %}
+{% for post in site.tags.Metodos y técnicas de observación %}
 
 <div>
   
