@@ -17,15 +17,24 @@ title: ''
 
 ```
 ---
+---
 layout: 'post'
 title: ''
-course: ''
-semester: '1'
+tags: ''
+---
 ---
 ```
-### Course list
+### Tag list
 
 ````
-metodos-técnicas-observación
+tarea
+libreta
+Primer Semestre
+
+Metodos y técnicas de observación
+Comunicación efectiva
+Desarrollo de la personalidad
+Psicología general: procesos y teorías
+Bioestadística
 
 ````
