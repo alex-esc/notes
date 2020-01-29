@@ -23,3 +23,10 @@ Lo que separa a una observación científica de una no-científica es la intenci
 * plantea hipótesis y teorías
 * busca observaciones 'naturales' o en un ambiente controlado
 
+> *[Sadhguru en YouTube](https://www.youtube.com/results?search_query=sadhguru)*
+
+### Formas de observar, Epistemología de la observación
+
+empirismo                           | constructivismo  
+:----------------------------------:|:--------------------------------------:
+Observar los hechos como son; puros | Observamos con teoría, construimos peso
