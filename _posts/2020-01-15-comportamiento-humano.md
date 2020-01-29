@@ -1,7 +1,7 @@
 ---
 layout: 'post'
 title: 'El comportamiento Humano'
-tags: 'libreta, Psicología general, Primer semestre'
+tags: 'libreta, Psicología general: procesos y teorías, Primer semestre'
 ---
 
 
