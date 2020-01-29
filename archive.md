@@ -3,6 +3,21 @@ layout: default
 title: Archive
 ---
 
+course: 'metodos-técnicas-observación'
+
+{% for post in site.course.metodos-técnicas-observación %}
+
+<div>
+  
+    »
+  <span class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+  </span>
+</div>
+
+{% endfor %}
+
+
 # Navigating the archive
 
 * [All content in one page](all.md)
