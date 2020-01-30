@@ -89,38 +89,14 @@ Antes de formalizarse como una ciencia y seguía formando parte de la filosofía
 ## Conductismo
 
 * __Iván Pávlov, John Watson__
-	+ 
+	+ Estímulos positivos y negativos crean condiciones y des-condiciones que forman el comportamiento
 
+## Humanista / Gestalt 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* __William James__
+	+ Percepción de objetos y como interactúan
+	+ Las personas racionalizan el comportamiento y crean relaciones
+	+ Buscamos darle sentido a los sucesos
+	+ De aquí nacen dos otras sub-corrientes:
+		+ Evolutiva
+		+ Positiva
