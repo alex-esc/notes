@@ -10,15 +10,16 @@ tags:
 
 ¿Las cosas son en sí mismas, o sn construcciones hechas por el observador?
 
-<center>
-
-**Ciencia**
-
-| Realismo, Empirismo | *vs*| Conductismo |
-|---|---|---|
-
-</center>
-
+<p><center></p>
+<p><strong>Ciencia</strong></p>
+<table>
+<thead>
+<tr><th>Realismo, Empirismo</th><th><em>vs</em></th><th>Conductismo</th></tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<p></center></p>
 
 > *La experiencia cargada de teoría*
 >
