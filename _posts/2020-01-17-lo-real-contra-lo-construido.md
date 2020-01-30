@@ -10,7 +10,7 @@ tags:
 
 ¿Las cosas son en sí mismas, o sn construcciones hechas por el observador?
 
-<p><center></p>
+<center>
 <p><strong>Ciencia</strong></p>
 <table>
 <thead>
@@ -19,7 +19,7 @@ tags:
 <tbody>
 </tbody>
 </table>
-<p></center></p>
+</center>
 
 > *La experiencia cargada de teoría*
 >
