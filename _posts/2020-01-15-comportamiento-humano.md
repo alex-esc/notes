@@ -79,8 +79,17 @@ Antes de formalizarse como una ciencia y seguía formando parte de la filosofía
 ## Psicoanalista / Psicodinámica
 
 * __Sigmund Freud__
-	+ 
+	+ Existe entidades de la mente, el *ello, yo,* y el *super-yo*
+		+ Ello - *Primitiva manera de comportarse, deseos viscerales*
+		+ Yo - *La batalla entre los deseos y las normas, compromiso del aquí y ahora*
+		+ Super-yo - *Normas morales, normativa, idealista*
+	+ Se trata del inconsciente
+	+ Analiza eventos accidentales, como los actos fallidos (*Freudian slip*)
  
+## Conductismo
+
+* __Iván Pávlov, John Watson__
+	+ 
 
 
 
