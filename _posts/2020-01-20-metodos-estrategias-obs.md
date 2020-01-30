@@ -19,6 +19,23 @@ M2=T2+T2+T3
 
 > En esta representación *M* significa un *método* y *T* una *técnica*
 
+
+
+
+````
++-+--+---------+            +----+---+---------+
+| |T |         |            |    | T |         |
+| +--+      +---------------|----+---+         |
+|           |  |            |    |             |
+|  METODO 1 |  |  Tecnica   |    |  Metodo 2   |
+|           |  |            |    |             |
+|   +---+   +---------------|----+      +----+ |
+|   | T |      |            |           | T  | |
++---+---+------+            +-----------+----+-+
+````
+
+
+
 Las técnicas forman un *método* o *estrategia*. Las técnicas pueden, o no, ser específicas o exclusivas a un dominio de estudio. Hay diferentes técnicas, alguna técnica puede ser *la encuesta*, la encuesta se usa tanto en métodos (o dominios de estudio) de medicina tanto como en psicología (*T3* representa la técnica de la encuesta). Pero hay técnicas exclusivas entre métodos; el dominio de neurociencia y la psicología usan la resonancia cerebral y el psicoanálisis, los dominios podrán tener técnicas en común (como la encuesta).
 
  
