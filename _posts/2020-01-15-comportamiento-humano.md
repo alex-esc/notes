@@ -26,3 +26,11 @@ Antes de formalizarse como una ciencia y seguía formando parte de la filosofía
 
 ## Neurociencia y fisiología
 
+* Estudio el sistema nervioso central
+* Relaciona lo físico y lo psicológico con el mundo exterior (como un tumor baja empatía, etc)
+
+## Psicología social
+
+* Sus leyes involucran a otras personas, ¿quienes están a mi alrededor?
+* Estudian fenómenos sociales
+* Estudia patrones e comportamiento, valores y so...
