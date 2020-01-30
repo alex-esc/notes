@@ -33,4 +33,85 @@ Antes de formalizarse como una ciencia y seguía formando parte de la filosofía
 
 * Sus leyes involucran a otras personas, ¿quienes están a mi alrededor?
 * Estudian fenómenos sociales
-* Estudia patrones e comportamiento, valores y so...
+* Estudia patrones de comportamiento, valores y sociales
+
+## Psicología de personalidad
+
+* Emociones, sentimientos que predetermina el comportamiento
+* Como el entorno forma la personalidad
+
+## Psicología clínica
+
+* Tratamiento y adaptación de condiciones de la salud
+* Predice conducta
+* Terapias de todo tipo
+
+## Psicología organizacional
+
+* Talento y capital humano
+* Comportamiento en un ambiente laboral
+
+## Psicología del desarrollo
+
+* Estudia las personas desde la niñez hasta la etapa adulta
+* Proceso de evolución desde la niñez
+* Busca predecir mediante patrones
+* De largo plazo, tarda años, o incluso décadas
+
+# Corrientes psicológicas
+
+## Estructuralismo
+
+* __Edward B. Titchener__
+	+ Estructuras dentro del sistema nervioso
+	+ La estructura mental conlleva, o produce, el comportamiento humano
+	+ Si una estructura es incorrecta o no funciona el daño es irreparable, pues una mala maquina produce errores
+
+## Funcionalismo
+
+* __William James__
+	+ Estudia como funcionamos en base a comportamiento previos
+	+ Como *yo* aprendo hábitos para adaptarme, para funcionar
+	+ Aprendo según lo que veo, siempre hay adaptación
+	+ Desarrollo individual
+	+ Con ideas Darwinsistas
+ 
+## Psicoanalista / Psicodinámica
+
+* __Sigmund Freud__
+	+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
