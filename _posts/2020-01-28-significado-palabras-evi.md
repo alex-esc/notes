@@ -62,58 +62,58 @@ La evidencia se deberá de entregar de manera formal en computadora, letra arial
 > Referente a la militar o a la guerra
 
 12. cornisa
-> 
+> Sección de un edificio con el propósito de evitar que el agua fluya por el suelo, una protuberancia en el techo que sale mas allá de los los limites de la pared
 
 13. sintaxis
->
+> Disciplina que estudia el orden y la lógica detrás de objetos en un lenguaje, literario o de programación
 
 14. semántica
->
+> El estudio de las palabras, expresiones, significados etc.
 
 15. pragmática
->
+> Referente a la practica, contraparte del  idealismo
 
 16. catarsis
->
+> El gozo de ver aun tercero experimentar un castigo o ser llevado a la 'justicia', liberación de emociones positivas de una manera satisfactoria al observar un fenómeno
 
 17. eficiencia
->
+> Capacidad relativa a si misma de realizar una acción
 
 18. optimizar
->
+> Aumentar la capacidad, encontrar nuevas estrategias para aumentar o reducir fricción, tiempo, o costo de algún proceso
 
 19. prospecto
->
+> Documento o escrito que informa a un consumidor sobre los contenidos y las características de un medicamento
 
 20. descarte
->
+> remover uno o mas elementos de un grupo
 
 21. infringir
->
+> no lograr, respetar o adherirse a una norma o ley 
 
 22. semiótica
->
+> Ciencia que estudia los signos
 
 23. contrastar
->
+> Comparar dos (o mas) objetos entre si, encontrar o resalar diferencias
 
 24. efímero
->
+> Corto de duración 
 
 25. canalizar
->
+> Encontrar, enfocarse en un canal o medio
 
 26. cuantitativo
->
+> referente a preguntas de cantidad
 
 27. cualitativo
->
+> referente a preguntas de cualidad
 
 28. carente
->
+> Faltante
 
 29. fusionar
->
+> Combinar, unir elementos para crear uno que comparte sus características
 
 30. despepitar
->
+> Remover las semillas, o pepitas, de un fruto
