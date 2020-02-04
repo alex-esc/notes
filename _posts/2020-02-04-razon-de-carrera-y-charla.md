@@ -1,7 +1,17 @@
-# Tarea 
-# Alejandro Escalante Martínez
-# 2789114
-# 4 Febrero 2020
+---
+layout: 'post'
+title: '¿Psicolo- que?'
+tags:
+- tarea
+- Primer Semestre
+---
+
+
+
+## Tarea: Introducción a la Universidad
+## Alejandro Escalante Martínez
+## 2789114
+## 4 Febrero 2020
 
 ---
 
