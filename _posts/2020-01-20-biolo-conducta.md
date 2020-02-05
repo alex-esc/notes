@@ -32,6 +32,8 @@ tags:
 * animo, aprendizaje, crecimiento
 * coordina y regula las otras funciones
 
+---
+
 ## Funciones y capas del encéfalo
 
 + **Núcleo central**
@@ -39,7 +41,10 @@ tags:
 + **Límbico**
 	- hipocampo, amígdalas
 
+---
+
 ## Hemisferios cerebrales, lóbulos
+
 
 ### Lóbulo occipital
 
@@ -47,6 +52,23 @@ tags:
 * Prosesa información visual (daño aquí puede causar alucinaciones)
 * regula temperatura
 * control movimientos generales
+
+
+````
+XX----------------+
+XXX               |
+XXXX              |
+XXXX          +-+ |
+XXXX          | | |
+XXXX          +-+ |
+XXX               |
+XX------+         |
+        |   |-----+
+        |   +-----+
+        |         |
+        +---------+
+````
+
 
 ### Lóbulo temporal
 
@@ -56,17 +78,65 @@ tags:
 * equilibrio, ansiedad, ira / placer
 * lenguaje
 
+````
++-----XXXXX-------+
+|     XXXXX       |
+|     XXXXX       |
+|     XXXXX   +-+ |
+|     XXXXX   | | |
+|     XXXXX   +-+ |
+|     XXXXX       |
++-----XXXXX       |
+        |   |-----+
+        |   +-----+
+        |         |
+        +---------+
+````
+
+
 ### Lóbulo parental
 
 * arriba del occipital y temporal
 * procesa sensaciones (olor, gusto, etc.)
 * habilidad espacial
 
+````
+XXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXX|
+|  XXXXXXXXXX     |
+|             +-+ |
+|             | | |
+|             +-+ |
+|                 |
++-------+         |
+        |   |-----+
+        |   +-----+
+        |         |
+        +---------+
+````
+
 ### Lóbulo frontal
 
 * detrás de la frente
 * integra los otros lóbulos
 * motivación, moral, afecto (trastornos de personalidad)
+
+
+````
++---------------XXX
+|             XXXXX
+|             XXXXX
+|            XXXXXX
+|            XXXXXX
+|            XXXXXX
+|              XXXX
++-------+         X
+        |   |-----+
+        |   +-----+
+        |         |
+        +---------+
+````
+
 
 ---
 
