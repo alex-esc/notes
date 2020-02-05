@@ -11,7 +11,7 @@ Se forma después de Pávlov. Se basa en el aprendizaje para explicar la conduct
 
 ### John B. Watson
 
-* 
+* El experimento del Pequeño Albert (Little Albert experiment)
 * 
 
 ### Mary Cover Jones
