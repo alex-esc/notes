@@ -7,4 +7,14 @@ tags:
 - Psicología general: procesos y teorías
 ---
 
-2020-02-24-intro-conductista.md
+Se forma después de Pávlov. Se basa en el aprendizaje para explicar la conducta.
+
+### John B. Watson
+
+* 
+* 
+
+### Mary Cover Jones
+
+* 
+* 
