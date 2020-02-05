@@ -32,3 +32,70 @@ tags:
 * animo, aprendizaje, crecimiento
 * coordina y regula las otras funciones
 
+## Funciones y capas del encéfalo
+
++ **Núcleo central**
+	- medula, hipotálamo, puente, hipocampo
++ **Límbico**
+	- hipocampo, amígdalas
+
+## Hemisferios cerebrales, lóbulos
+
+### Lóbulo occipital
+
+* parte posterior
+* Prosesa información visual (daño aquí puede causar alucinaciones)
+* regula temperatura
+* control movimientos generales
+
+### Lóbulo temporal
+
+* delante del occipital
+* reconocimiento de rostros
+* procesa sonidos del odio
+* equilibrio, ansiedad, ira / placer
+* lenguaje
+
+### Lóbulo parental
+
+* arriba del occipital y temporal
+* procesa sensaciones (olor, gusto, etc.)
+* habilidad espacial
+
+### Lóbulo frontal
+
+* detrás de la frente
+* integra los otros lóbulos
+* motivación, moral, afecto (trastornos de personalidad)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
