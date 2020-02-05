@@ -1,7 +1,7 @@
 ## All in one
 
 
-{% for post in site.tags.Psicología general: procesos y teorías %}
+{% for post in site.tags.Psicología general procesos y teorías %}
 
 <article class='post'>
   <h1 class='post-title'>
