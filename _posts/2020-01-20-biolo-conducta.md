@@ -141,31 +141,32 @@ XXXXXXXXXXXXXXXXXXX
 ---
 
 
+El intercambio de información es las **sinapsis**, conexión de neuronas. hay señales químicas que son (1) hormonas y (2) neurotransmisores.
 
+## Neurotransmisores (más importantes)
 
+### Acetilcolina
 
+* excitación (energía motriz)
+* memoria, atención, movimiento
 
+### Serotonina
 
+* sueño, animo (insomnio)
+* dolor, agresividad
+* depresión
 
+### Noradrenalina
 
+* aprendizaje
+* vigila 
+* animo
 
+### endorfinas
 
+* inhibir dolor
 
+### Glutamato
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* memoria a largo plazo
+* percepción del dolor
