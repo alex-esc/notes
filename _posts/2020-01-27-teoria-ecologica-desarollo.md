@@ -1,7 +1,7 @@
 ---
 layout: 'post'
 title: 'Urie Bronfenbrenner: La Teoría Bio-Ecológica del desarrollo'
-tags: 'Metodos y técnicas de observación, Primer Semestre'
+tags: 'Desarrollo de la personalidad, Primer Semestre'
 ---
 
 
