@@ -10,7 +10,7 @@ title: "abc"
 s
 
 
-{% for post in site.tags.Psicología general procesos y teorías %}
+{% for post in site.tags.Primer Semestre %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -25,9 +25,9 @@ s
 {% endfor %}
 
 
-course: 'metodos-técnicas-observación'
+course: 'Primer Semestre'
 
-{% for post in site.tags.Psicología general procesos y teorías %}
+{% for post in site.tags.Primer Semestre %}
 
 <div>
   
