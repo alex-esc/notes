@@ -1,10 +1,7 @@
 ---
 layout: 'post'
 title: 'Pregunta epistemologica'
-tags:
-- libreta
-- Primer Semestre
-- Metodos y técnicas de observación
+tags: 'libreta, Primer Semestre, Metodos y técnicas de observación'
 ---
 
 
