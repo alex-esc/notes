@@ -1,10 +1,7 @@
 ---
 layout: 'post'
 title: 'Buen / mal docente'
-tags:
-- tarea
-- Primer Semestre
-- Metodos y técnicas de observación
+tags: 'tarea, Primer Semestre, Metodos y técnicas de observación'
 ---
 
 
