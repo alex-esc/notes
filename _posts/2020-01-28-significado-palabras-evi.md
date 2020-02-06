@@ -1,10 +1,7 @@
 ---
 layout: 'post'
 title: 'Evidencia 1, Definicioes para Comunicación'
-tags:
-- tarea
-- Primer Semestre
-- Comunicación efectiva
+tags: 'tarea, Primer Semestre, Comunicación efectiva'
 ---
 
 ## Instrucciones
