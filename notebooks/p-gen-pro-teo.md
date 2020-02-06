@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Metodos y técnicas de observación"
+title: "Psicología general: procesos y teorías"
 ---
 
 
@@ -9,7 +9,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Psicología general procesos y teorías %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -26,7 +26,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Psicología general procesos y teoríasn %}
 
 <div>
   
