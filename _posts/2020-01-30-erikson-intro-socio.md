@@ -1,9 +1,7 @@
 ---
 layout: 'post'
 title: 'Un poco sobre Erickson'
-tags:
-- libreta
-- Desarrollo de la personalidad
+tags: 'libreta, Desarrollo de la personalidad'
 ---
 
 ### Erickson
