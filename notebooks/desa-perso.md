@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Metodos y técnicas de observación"
+title: "Desarrollo de la personalidad"
 ---
 
 
@@ -9,7 +9,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Desarrollo de la personalidad %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -26,7 +26,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Desarrollo de la personalidad %}
 
 <div>
   
