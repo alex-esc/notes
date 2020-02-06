@@ -1,10 +1,7 @@
 ---
 layout: 'post'
 title: 'Bases biológicas de conducta'
-tags:
-- libreta
-- Primer Semestre
-- Psicología general procesos y teorías
+tags: 'libreta, Primer Semestre, Psicología general procesos y teoría'
 ---
 
 ## Sistema nervioso central (SNC)
