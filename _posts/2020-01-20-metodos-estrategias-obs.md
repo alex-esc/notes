@@ -1,10 +1,7 @@
 ---
 layout: 'post'
 title: 'Método y estrategias de observación'
-tags:
-- libreta
-- Primer Semestre
-- Metodos y técnicas de observación
+tags: 'libreta, Primer Semestre, Metodos y técnicas de observación'
 ---
 
 Existen *objetos*, son aquellas cosas o personas que observamos. Pueden ser personas, comportamientos, fenómenos sociales, etc.
