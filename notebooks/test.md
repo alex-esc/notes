@@ -1,16 +1,15 @@
 ---
 layout: "post"
-title: "abc"
+title: "Metodos y técnicas de observación"
 ---
 
 
 ## All in one
 
 
-s
 
 
-{% for post in site.tags.Psicología general procesos y teorías %}
+{% for post in site.tags.Metodos y técnicas de observación %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -25,9 +24,9 @@ s
 {% endfor %}
 
 
-course: 'metodos-técnicas-observación'
 
-{% for post in site.tags.Psicología general procesos y teorías %}
+
+{% for post in site.tags.Metodos y técnicas de observación %}
 
 <div>
   
@@ -41,5 +40,3 @@ course: 'metodos-técnicas-observación'
 
 
 
-
-sdsdsdsd
