@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Metodos y técnicas de observación"
+title: "Comunicación efectiva"
 ---
 
 
@@ -9,7 +9,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Comunicación efectiva %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -26,7 +26,7 @@ title: "Metodos y técnicas de observación"
 
 
 
-{% for post in site.tags.Metodos y técnicas de observación %}
+{% for post in site.tags.Comunicación efectiva %}
 
 <div>
   
