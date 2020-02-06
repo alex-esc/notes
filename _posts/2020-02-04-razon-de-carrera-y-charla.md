@@ -1,9 +1,7 @@
 ---
 layout: 'post'
 title: '¿Psicolo- que?'
-tags:
-- tarea
-- Primer Semestre
+tags: 'tarea, Primer Semestre'
 ---
 
 
