@@ -25,6 +25,21 @@ s
 {% endfor %}
 
 
+course: 'metodos-técnicas-observación'
+
+{% for post in site.tags.Psicología general procesos y teorías %}
+
+<div>
+  
+    »
+  <span class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+  </span>
+</div>
+
+{% endfor %}
+
+
 
 
 sdsdsdsd
