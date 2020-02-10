@@ -29,7 +29,7 @@ other:
   licenselink: https://creativecommons.org/licenses/by-sa/4.0/ # Place here the link to your license of choice
   
 licensename: 'Creative Commons Attribution-ShareAlike 4.0 International' # Write here the name of your license, it will be mentioned multiple times on this site
-404message: 'Either the link, post title or tag you’re looking for might have changed, head over to the archive to manually search for an article.' # Write a custom 404 error message, depending on your use of this preset you might want a different 404 message
+404message: 'Either the link, title or tag you’re looking for might have changed, head over to the archive to manually search for an entry.' # Write a custom 404 error message, depending on your use of this preset you might want a different 404 message
 doclist: https://github.com/alex-esc/notes/tree/master/_posts
 
 ########
