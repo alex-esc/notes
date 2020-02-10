@@ -6,9 +6,9 @@ title: Welcome
 
 
 
-## All posts
+## All notes & docs
 
-All my blog posts are licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>.
+All content is licensed under <a href="{{ site.other.licenselink }}">{{ site.licensename }}</a>.
 
 
 
