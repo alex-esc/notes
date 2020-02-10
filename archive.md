@@ -3,21 +3,6 @@ layout: default
 title: Archive
 ---
 
-course: 'metodos-técnicas-observación'
-
-{% for post in site.tags.Metodos y técnicas de observación %}
-
-<div>
-  
-    »
-  <span class='post-title'>
-    <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
-  </span>
-</div>
-
-{% endfor %}
-
-
 # Navigating the archive
 
 * [All content in one page](all.md)
@@ -48,4 +33,4 @@ The content on this archive is written by {{ site.author.name }} (<a href="{{ si
 
 {% endfor %}
 
-[dl]: https://github.com/alex-esc/posts/archive/master.zip
+[dl]: https://github.com/alex-esc/notes/archive/master.zip
