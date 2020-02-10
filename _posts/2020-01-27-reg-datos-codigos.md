@@ -26,3 +26,14 @@ Primero se piensa en el objeto, se define, teoriza, antes de empezar la observac
 |---------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Registra el comportamiento observable, no se interpreta, no inferir | Se registras todo en su estado natural, se permite la interpretación | Estudia el discurso y la cultura, usa herramientas como las grabaciones |
 
+
+### formas de registro
+
+
+* __no sistematizado__:
+	+ Diario personales, autobiografías, métodos desordenados
+* __Códigos narrativos__:
+	+ Narrativas
+* __Mecánicos__:
+	+ Vídeo, audio
+
