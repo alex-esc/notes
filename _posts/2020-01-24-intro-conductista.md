@@ -9,9 +9,28 @@ Se forma después de Pávlov. Se basa en el aprendizaje para explicar la conduct
 ### John B. Watson
 
 * El experimento del Pequeño Albert (Little Albert experiment)
-* 
+* Le daba comida a un bebé, para así producirle placer. Luego le dio un peluche de un color determinado, al mismo tiempo hizo sonar una alarma, para producir miedo. Los niños desatollaron miedo relacionado con el color del peluche o con el animal del peluche en un futuro. 
 
 ### Mary Cover Jones
 
-* 
-* 
+* Si Watson puede condicionar el miedo, el *acercamiento progresivo* puede revertir el mido condicionado.
+* Terapia de desensibilización sistemática o progresiva:
+	* De manera progresiva acercas al paciente al objeto que causa la fobia. Primero leer un libro sobre el objeto, después fotos del objeto, luego esculturas y finalmente el objeto en si. Normalizas el concepto con la lenta introducción.  
+	* Se puede de-sensibilizar con figuras u objetos si la fobia involucra objetos(animales o situaciones) peligrosos para la salud del sujeto. Usa un peluche de un león para de-sensibilizar el miedo al felino en lugar de arrojar al paciente en la jaula con el animal en carne y hueso.
+
+---
+
+## Reforzadores
+
+Aumentan o reducen la probabilidad de repetición de la conducta. Son estímulos, existen de tipo positivo o negativo:
+
+* **Reforzador positivo**: Estimulo agradable, se trata de agregar un estimulo.
+* **Reforzador negativo**: evitar conductas, produce molestia (como un cinturón de un auto) y busca formar una acción. Estos remueven, no agregan.
+
+Es importante no jugar la moralidad de un reforzador. Un estimulo positivo puede ser el uso de drogas si el comportamiento estudiado es la adición. En este caso el reforzador s positivo por que agrega un estimulo, produce placer, la moralidad dudosa de este acto no la convierte en negativa en cuanto al reforzador. 
+
+---
+
+## Moldeamiento
+
+
