@@ -29,7 +29,7 @@ Aumentan o reducen la probabilidad de repetición de la conducta. Son estímulos
 * **Reforzador negativo**: busca una conducta, produce molestia (como un cinturón de un auto) y busca formar una acción. Estos remueven, no agregan.
 	* Al ser **removido**, aumenta una conducta.
 
-Es importante no jugar la moralidad de un reforzador. Un estimulo positivo puede ser el uso de drogas si el comportamiento estudiado es la adición. En este caso el reforzador s positivo por que agrega un estimulo, produce placer, la moralidad dudosa de este acto no la convierte en negativa en cuanto al reforzador.
+Es importante no jugar la moralidad de un reforzador. Un estimulo positivo puede ser el uso de drogas si el comportamiento estudiado es la adición. En este caso el reforzador es positivo por que agrega un estimulo, produce placer, la moralidad dudosa de este acto no la convierte en negativa en cuanto al reforzador.
 
 ### Programas de reforzamiento
 
@@ -74,7 +74,7 @@ no tienen la memoria suficiente.
 * Quita el negativo y se deja de presentar el positivo.
 * ¿sacaste una mala calificación? Entonces te quitaré la caricaturas.
 
----
+
 
 
 
