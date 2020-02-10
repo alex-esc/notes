@@ -25,9 +25,28 @@ Se forma después de Pávlov. Se basa en el aprendizaje para explicar la conduct
 Aumentan o reducen la probabilidad de repetición de la conducta. Son estímulos, existen de tipo positivo o negativo:
 
 * **Reforzador positivo**: Estimulo agradable, se trata de agregar un estimulo.
-* **Reforzador negativo**: evitar conductas, produce molestia (como un cinturón de un auto) y busca formar una acción. Estos remueven, no agregan.
+	* Al ser **añadido**, aumenta una conducta.
+* **Reforzador negativo**: busca una conducta, produce molestia (como un cinturón de un auto) y busca formar una acción. Estos remueven, no agregan.
+	* Al ser **removido**, aumenta una conducta.
 
 Es importante no jugar la moralidad de un reforzador. Un estimulo positivo puede ser el uso de drogas si el comportamiento estudiado es la adición. En este caso el reforzador s positivo por que agrega un estimulo, produce placer, la moralidad dudosa de este acto no la convierte en negativa en cuanto al reforzador.
+
+### Programas de reforzamiento
+
+| Programa de reforzamiento de tipo: | Explicación                                                              |
+|:----------------------------------:|:-------------------------------------------------------------------------|
+| Continuo                           | Después de un comportamiento deseado se da una recompensa                |
+| Razón fija                         | Hay una recompensa según una acción determinada                          |
+| Razón variable                     | Hay recompensas no relacionadas con acciones o compartimento             |
+| Intervalo fijo                     | Después de un intervalo de tiempo determinado se tiene una compensa      |
+| Intervalo variable                 | Después de un intervalo de tiempo *no determinado* se tiene una compensa |
+
+
+
+### castigos
+
+* Solo usarse como **ultimo** recurso.
+* Sobretodo si involucra peligro, no usarse.
 
 ````
 NOTA:
@@ -41,19 +60,22 @@ o ignoran el castigo, pero  en realidad
 no tienen la memoria suficiente.
 ````
 
----
 
-## Moldeamiento
+
+### Moldeamiento
 
 * Reforzar conducta existente.
 * Se basa en la imitación, yo corro, el corre.
 * No es espontaneo. 
 
-## Extinción
+### Extinción
 
 * Se detiene un reforzador (estimulo agradable).
 * Quita el negativo y se deja de presentar el positivo.
 * ¿sacaste una mala calificación? Entonces te quitaré la caricaturas.
+
+---
+
 
 
 
