@@ -9,7 +9,7 @@ El padre de la psicología es Wundt. En 1897 creó el primer laboratorio de psic
 ### Psicoanálisis
 
 | consiente |     preconsiente       | inconsciente |
-|-----------|------------------------|--------------|
+|:---------:|:----------------------:|:------------:|
 | lo que sé | lo que no sé que no sé | lo que no sé |
 
 Para Freud existen tres entidades que, para el, explica el comportamiento:
@@ -24,3 +24,20 @@ Para Freud existen tres entidades que, para el, explica el comportamiento:
 > * [Melanie Klein](https://es.wikipedia.org/wiki/Melanie_Klein)
 > * [Lo mejor de mi vida](https://www.netflix.com/gy-es/title/80108598)
 
+## Etapas del desarrollo psicosexual
+
+1. **Oral**
+	* a
+	* a
+2. **Anal**
+	* a
+	* a
+3. **Fálica**
+	* a
+	* a
+4. **Lactancia**
+	* a
+	* a
+5. **Genital**
+	* a
+	* a
