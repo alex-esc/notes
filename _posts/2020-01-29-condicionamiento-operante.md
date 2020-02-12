@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: ''
+title: 'Condicionamiento operante'
 tags: "libreta, Primer Semestre, Psicología general procesos y teorías"
 ---
 
