@@ -1,7 +1,7 @@
 ---
 layout: 'post'
 title: 'Condicionamiento operante'
-tags: "libreta, Primer Semestre, Psicología general procesos y teorías"
+tags: "libreta, Primer Semestre, Psicologia general"
 ---
 
 * Condicionamiento operante (__B. F. Skinner__)
