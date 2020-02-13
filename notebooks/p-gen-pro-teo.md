@@ -7,11 +7,11 @@ title: "Psicología general: procesos y teorías"
 ## All in one
 
 
-{% for item in site.tags.Psicologia reversed %}
+{% for item in site.tags.Psicologia %}
 
 
 
-<article class='default'>
+<article class='post'>
   <h1 class='post-title'>
     <a href="{{ site.path }}{{ post.url }}">
       {{ post.title }}
