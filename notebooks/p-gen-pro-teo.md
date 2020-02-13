@@ -9,7 +9,7 @@ title: "Psicología general: procesos y teorías"
 
 
 
-{% for post in site.tags.Psicologia general %}
+{% for post in site.tags.Psicologia general reversed %}
 
 <article class='post'>
   <h1 class='post-title'>
