@@ -26,7 +26,8 @@ title: "Psicología general: procesos y teorías"
 
 
 
-{% for item in collection reversed %}
+
+
 {% for post in site.tags.Psicologia general %}
 
 <div>
@@ -38,5 +39,3 @@ title: "Psicología general: procesos y teorías"
 </div>
 
 {% endfor %}
-{% endfor %}
-
