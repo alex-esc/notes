@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "default"
 title: "Psicología general: procesos y teorías"
 ---
 
