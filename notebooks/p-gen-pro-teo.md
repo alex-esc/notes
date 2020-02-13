@@ -7,7 +7,7 @@ title: "Psicología general: procesos y teorías"
 ## All in one
 
 
-{% for item in site.tags.Psicologia reversed %} {{item}} 
+{% for item in site.tags.Psicologia reversed %}
 
 
 
