@@ -27,7 +27,7 @@ title: "Psicología general: procesos y teorías"
 
 
 
-{% for reversed post in site.tags.Psicologia general %}
+{% for post reversed in site.tags.Psicologia general %}
 
 <div>
   
