@@ -7,9 +7,9 @@ title: "Psicología general: procesos y teorías"
 ## All in one
 
 
+{% for item in site.tags.Psicologia reversed %} {{item}} 
 
-
-{% for post in site.tags.Psicologia general %}
+{{
 
 <article class='post'>
   <h1 class='post-title'>
@@ -20,6 +20,8 @@ title: "Psicología general: procesos y teorías"
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
   {{ post.content }}
 </article>
+
+}}
 
 {% endfor %}
 
