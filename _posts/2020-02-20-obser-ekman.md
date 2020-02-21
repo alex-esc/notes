@@ -4,6 +4,43 @@ title: 'Actividad 6: Mi perfil como observador de las emociones'
 tags: "tarea, Primer Semestre, Metodos y técnicas de observación"
 ---
 
+# Parte 1
+
+Para iniciar la actividad en equipo, comenten sobre las emociones, en particular sobre el miedo, la sorpresa, la ira, la alegría, la tristeza y el asco.
+
+A partir de sus observaciones cotidianas, construyan hipótesis acerca de cada una de las emociones. Traten de cubrir con los siguientes temas:
+
+* ¿Cómo pueden darse cuenta que esas emociones están presentes en alguien?
+* ¿Qué función creen que cumplen?
+* Dibujen la expresión de la emoción en el pizarrón.
+
+# Parte 2
+
+En equipo, lean detenidamente la entrevista de Eduard Punset, importante divulgador de la ciencia, a Paul Ekman, uno de los teóricos de las emociones más relevantes de nuestro siglo.
+
+# Parte 3
+
+Después de la lectura, respondan las siguientes preguntas y elijan a un miembro del equipo que las exponga frente a todo el grupo:
+
+* Identifiquen, ¿cuál fue el objeto de observación de Paul Ekman?
+* Respecto a lo observado por él, ¿a qué conclusiones llegaron?
+* Según el concepto de emociones universales de Paul Ekman, ustedes, ¿creen que existen?
+* ¿Cómo describen a Paul Ekman en su rol de observador de las emociones? ¿Qué teoría creen que subyace a sus interpretaciones de las emociones?
+* ¿Cuáles han sido los beneficios prácticos del resultado de las observaciones de Paul Ekman?
+* ¿En qué porcentaje se corresponden los hallazgos de Paul Ekman con sus interpretaciones intuitivas, proporcionadas al principio? (Generen un cuadro con semejanzas y diferencias).
+# Parte 4
+
+De las respuestas proporcionadas resalten, en la presentación frente al grupo, lo siguiente:
+¿Cuál es la diferencia entre ustedes como observadores y Paul Ekman respecto a la observación de las emociones?
+
+
+
+
+
+
+----
+
+
 
 * Después de la lectura, respondan las siguientes preguntas y elijan a un miembro del equipo que las exponga frente a todo el grupo:
 
