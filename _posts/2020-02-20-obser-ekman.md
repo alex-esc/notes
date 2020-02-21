@@ -15,18 +15,10 @@ A partir de sus observaciones cotidianas, construyan hipótesis acerca de cada u
 * Dibujen la expresión de la emoción en el pizarrón.
 
 
+## Miedo
 
 
-
-
-## Tristeza
-
-La tristeza es una emoción que es muy fácil de detectar en una persona ya que su mirada y su cabeza son dirigidas hacia abajo y sus movimientos son lentos, su nivel de voz es muy bajo,y también se presenta el llanto. Una de las funciones de la tristeza es fomentar la conducta de ayuda o altruista y otra función de la tristeza es que la persona haga un análisis y reflexión personal sobre situaciones que le están pasado y le ayuda a sacar una solución a su problema y actúa de tal manera que la tristeza se desaparezca.
-
-
-## Alegría
-
-La alegría es un emoción  agradable y placentera y esta emoción sucede ya que a la persona le pasaron sucesos agradables y es muy fácil de saber cuando una persona se encuentra alegre ya que sus manifestaciones son muy claras, en las manifestaciones están los gestos faciales, uno de ellos es la sonrisa, y tienes un estado de ánimo muy positivo. Una de las funciones de la Alegría es facilitar la interacción social y también ayuda a liberar tensión y estrés, y elimina cualquier sentimiento negativo.
+## Sorpresa
 
 
 ## Ira
@@ -34,9 +26,16 @@ La alegría es un emoción  agradable y placentera y esta emoción sucede ya que
 Notamos enojo en una persona cuando la persona muestra gestos en la cara que demuestran más de lo que él piensa, esto puede causar mucha alteración y enojo instantáneo ya que cuando una persona está enojada es muy vulnerable a ser manipulada por sus propias emociones, este toma un papel importante ya que al estar enojado no piensas las cosas bien y te comportas de una manera muy alterada.
 
 
-## Miedo
+## Alegría
 
-## Sorpresa
+La alegría es un emoción  agradable y placentera y esta emoción sucede ya que a la persona le pasaron sucesos agradables y es muy fácil de saber cuando una persona se encuentra alegre ya que sus manifestaciones son muy claras, en las manifestaciones están los gestos faciales, uno de ellos es la sonrisa, y tienes un estado de ánimo muy positivo. Una de las funciones de la Alegría es facilitar la interacción social y también ayuda a liberar tensión y estrés, y elimina cualquier sentimiento negativo.
+
+
+
+## Tristeza
+
+La tristeza es una emoción que es muy fácil de detectar en una persona ya que su mirada y su cabeza son dirigidas hacia abajo y sus movimientos son lentos, su nivel de voz es muy bajo,y también se presenta el llanto. Una de las funciones de la tristeza es fomentar la conducta de ayuda o altruista y otra función de la tristeza es que la persona haga un análisis y reflexión personal sobre situaciones que le están pasado y le ayuda a sacar una solución a su problema y actúa de tal manera que la tristeza se desaparezca.
+
 
 ## Asco
 
@@ -76,6 +75,19 @@ El entrevistador hace esta pregunta indirectamente, Ekman comenta sobre el contr
 
 
 ### ¿En qué porcentaje se corresponden los hallazgos de Paul Ekman con sus interpretaciones intuitivas, proporcionadas al principio? (Generen un cuadro con semejanzas y diferencias).
+
+
+
+
+| Emoción  | Equipo | Ekman |
+|----------|--------|-------|
+| miedo    |        |       |
+| sorpresa |        |       |
+| ira      |        |       |
+| alegría  |        |       |
+| tristeza |        |       |
+| asco     |        |       |
+
 
 ---
 
