@@ -14,36 +14,45 @@ A partir de sus observaciones cotidianas, construyan hipótesis acerca de cada u
 * ¿Qué función creen que cumplen?
 * Dibujen la expresión de la emoción en el pizarrón.
 
+
+
+
+
+
+## Tristeza
+
+La tristeza es una emoción que es muy fácil de detectar en una persona ya que su mirada y su cabeza son dirigidas hacia abajo y sus movimientos son lentos, su nivel de voz es muy bajo,y también se presenta el llanto. Una de las funciones de la tristeza es fomentar la conducta de ayuda o altruista y otra función de la tristeza es que la persona haga un análisis y reflexión personal sobre situaciones que le están pasado y le ayuda a sacar una solución a su problema y actúa de tal manera que la tristeza se desaparezca.
+
+
+## Alegría
+
+La alegría es un emoción  agradable y placentera y esta emoción sucede ya que a la persona le pasaron sucesos agradables y es muy fácil de saber cuando una persona se encuentra alegre ya que sus manifestaciones son muy claras, en las manifestaciones están los gestos faciales, uno de ellos es la sonrisa, y tienes un estado de ánimo muy positivo. Una de las funciones de la Alegría es facilitar la interacción social y también ayuda a liberar tensión y estrés, y elimina cualquier sentimiento negativo.
+
+
+## Ira
+
+Notamos enojo en una persona cuando la persona muestra gestos en la cara que demuestran más de lo que él piensa, esto puede causar mucha alteración y enojo instantáneo ya que cuando una persona está enojada es muy vulnerable a ser manipulada por sus propias emociones, este toma un papel importante ya que al estar enojado no piensas las cosas bien y te comportas de una manera muy alterada.
+
+
+## Miedo
+
+## Sorpresa
+
+## Asco
+
+
+
+---
+
 # Parte 2
 
 En equipo, lean detenidamente la entrevista de Eduard Punset, importante divulgador de la ciencia, a Paul Ekman, uno de los teóricos de las emociones más relevantes de nuestro siglo.
 
+---
+
 # Parte 3
 
 Después de la lectura, respondan las siguientes preguntas y elijan a un miembro del equipo que las exponga frente a todo el grupo:
-
-* Identifiquen, ¿cuál fue el objeto de observación de Paul Ekman?
-* Respecto a lo observado por él, ¿a qué conclusiones llegaron?
-* Según el concepto de emociones universales de Paul Ekman, ustedes, ¿creen que existen?
-* ¿Cómo describen a Paul Ekman en su rol de observador de las emociones? ¿Qué teoría creen que subyace a sus interpretaciones de las emociones?
-* ¿Cuáles han sido los beneficios prácticos del resultado de las observaciones de Paul Ekman?
-* ¿En qué porcentaje se corresponden los hallazgos de Paul Ekman con sus interpretaciones intuitivas, proporcionadas al principio? (Generen un cuadro con semejanzas y diferencias).
-# Parte 4
-
-De las respuestas proporcionadas resalten, en la presentación frente al grupo, lo siguiente:
-¿Cuál es la diferencia entre ustedes como observadores y Paul Ekman respecto a la observación de las emociones?
-
-
-
-
-
-
-----
-
-
-
-* Después de la lectura, respondan las siguientes preguntas y elijan a un miembro del equipo que las exponga frente a todo el grupo:
-
 
 ### ¿cuál fue el objeto de observación de Paul Ekman?
 
@@ -67,5 +76,19 @@ El entrevistador hace esta pregunta indirectamente, Ekman comenta sobre el contr
 
 
 ### ¿En qué porcentaje se corresponden los hallazgos de Paul Ekman con sus interpretaciones intuitivas, proporcionadas al principio? (Generen un cuadro con semejanzas y diferencias).
+
+---
+
+# Parte 4
+
+De las respuestas proporcionadas resalten, en la presentación frente al grupo, lo siguiente:
+¿Cuál es la diferencia entre ustedes como observadores y Paul Ekman respecto a la observación de las emociones?
+
+
+
+
+
+
+
 
 
