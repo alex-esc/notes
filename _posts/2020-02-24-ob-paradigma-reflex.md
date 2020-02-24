@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: ''¿Que es un paradigma? Una Reflexión'
+title: '¿Que es un paradigma? Una Reflexión'
 tags: "libreta, Primer Semestre, Metodos y técnicas de observación"
 ---
 
