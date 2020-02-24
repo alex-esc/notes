@@ -50,7 +50,7 @@ Primer Semestre
 Metodos y técnicas de observación
 Comunicación efectiva
 Desarrollo de la personalidad
-Psicología general: procesos y teorías
+Psicologia general
 Bioestadística
 
 ````
