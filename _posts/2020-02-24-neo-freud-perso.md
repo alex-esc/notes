@@ -30,3 +30,5 @@ Son más revolucionarias. Ya no son deterministas psíquicos. Ellos sí toman en
 
 # Otras teorías de personalidad:
 
+A diferencia de Freud, estas teorías no se enfocan en el inconsciente:
+
