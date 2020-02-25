@@ -32,3 +32,34 @@ Son más revolucionarias. Ya no son deterministas psíquicos. Ellos sí toman en
 
 A diferencia de Freud, estas teorías no se enfocan en el inconsciente:
 
+### Según conductistas:
+
+## B.F. Skinner
+
+* El aprendizaje continua durante toda la vida.
+* Conductas de condicionamiento clásico.
+* No ven el lado genético-social.
+
+## Albert Bandura 
+
+* La conducta es producto de experiencias (*cultura + experiencias*).
+* No es inato o biologico principalmente.
+* El individuo tiene criterio propio, aprende de las fuerzas culturales.
+
+## Maisto & Morns
+
+* Cognición también dicta la personalidad
+
+# Teorías humanistas
+
+## Carl R. Rogers (1902-1987)
+
+* La personalidad esta compuesta por:
+	+ *Organismo + yo (self) + conductas de valia = personalidad*
+		+ En otras palabras:
+			* *Genética + individual + estructuras sociales = personalidad*
+
+## Maslow (1908-1970)
+
+* Pirámide de necesidades de Maslow.
+* Habla de auto-realización: Quienes se realizan son espontáneas, tranquilas, sin complejos de superioridad, de mucha aceptación, etc. 
