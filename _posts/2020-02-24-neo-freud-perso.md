@@ -63,3 +63,32 @@ A diferencia de Freud, estas teorías no se enfocan en el inconsciente:
 
 * Pirámide de necesidades de Maslow.
 * Habla de auto-realización: Quienes se realizan son espontáneas, tranquilas, sin complejos de superioridad, de mucha aceptación, etc. 
+
+---
+
+# Evaluación de la personalidad
+
+## Entrevista personal
+
+* Estructurada-no estructurada
+	* orden predeterminado a respetar, o puede ser libre
+* Observación directa
+	* Observación naturista
+* Pruebas objetivas
+	* Teste de personalidad, cuestionarios, etc.
+* Pruebas de proyección
+	* Prueba de dibujo, son libres, el sujeto es libre de dibujar lo que quiere
+
+## ¿De qué depende que teoría o técnica usar?
+
+* _psicodinamico_
+	+ Pruebas de proyección, Entrevistas
+
+* _Conductual_
+	+ Observación directa
+
+* Aprendizaje social_
+	+ Entrevistas, Pruebas objetivas, 
+
+* _Humanismo_
+	+ Pruebas objetivas, Entrevistas
