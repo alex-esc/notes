@@ -6,7 +6,7 @@ tags: "libreta, Primer Semestre, Metodos y técnicas de observación"
 
 Un trastorno es un paradigma, porque es un *supuesto* de una enfermedad.
 
-> *Alteración de consciencia `-->` paradigma ,escapar de un paradigma*
+> *Alteración de consciencia `-->` paradigma, escapar de un paradigma*
 
 Los paradigmas son "supuestos" encima de la realidad. Son *"cosas que damos por sentadas"*.
 
