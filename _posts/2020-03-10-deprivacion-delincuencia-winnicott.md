@@ -23,3 +23,31 @@ Se plantea una relación entre el odio, el amor y la violencia. Para Winncott la
 La violencia no es una manifestación que se desarrolla con las habilidades de sentir odio o celos. Mas bien son el único medio que tenemos para entender el mundo. Cuando un bebe este en el vientre, busca placer corporal mediante chocar su cuerpo contra la superficie del vientre. Eso lo ayuda a explorar, pero en esta etapa se esta explorando a si mismo, golpeando en el vientre el niño aprende donde empieza y donde termina su *self*. Una herramienta para el desarrollo del *self* es el uso de simbología, tanto como en los sueños (como un espacio de desarrollo meramente simbólico) como en el mundo real: el niño simbólicamente representa hacer otras acciones, como jugar a ser mama, y así se logra desarrollar. Las señales infantiles de violencia son, por estas rezones, un logro, y una señal de que el niño esta en buen camino.
 
 #### El desarrollo de la capacidad de preocuparse por el otro
+
+En el epicentro de la preocupación esta la culpa. Esta se desarrolla por la dinámica familiar - como en el complejo de edipo, como es breve-mente mencionado - alguna dinámica sana es necesaria para el desarrollo de la preocupación, hablamos de condiciones cuasi-materialistas. Primero es necesario la distinción del *self*, luego que se auto-identifica podrá identificar a su madre, como un objeto y una persona que da cuidados, luego el bebe sufre un conflicto interno de querer comer de la madre y no "terminar con ella", ya que entiende su *self* lo generaliza a su madre. De aquí la primera preocupación, visceral pero preocupación sin embargo. La preocupación conlleva a la responsabilidad de las acciones, ya que entiende lo que hace. De otra forma surge la angustia al no tener oportunidad de "reparar" el daño hecho as u madre al consumirla.
+
+#### La ausencia del sentimiento de culpa
+
+Empezamos con dos lentes sobre la moral, la moral debe (1) ser impuesta por autoridad, o (2) ser generada por juicios propios. El superyó interfiere aquí, creando relaciones entre acciones cotidianas y deseos perversos y violentos. El niño siente culpa por sus ideas perversamente superyó-escas y así refuerza su juicio moral. Pero si la culpa que siente el niño viene acompañada de desconfianza de la madre se rompe la dinámica y no podrá reparar nada, por lo tanto no reparará su culpa y le sera genuina-mente dolorosa, perdiendo estos impulsos que normalmente formarían su moral, se volverá alguien incapaz de sentir culpa. Luego se introduce la idea de "el engaño", en el que el bebe desarrolla la capacidad de engañarse mediante la construcción del mundo, para así darle y encontrarle significado satisfactorio y sano para su salud mental. Pero un superyó dominante no permite el auto engaño, por eso el niño no es capas de desarrollar significado en su adolescencia y etapa adulta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
