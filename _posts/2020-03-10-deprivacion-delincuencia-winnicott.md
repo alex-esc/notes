@@ -33,12 +33,12 @@ Empezamos con dos lentes sobre la moral, la moral debe (1) ser impuesta por auto
 
 #### Algunos aspectos psicológicos de la delincuencia juvenil
 
-Primero es necesario recordar la existencia del inconsciente, pues los ladrones no buscan meramente el objeto robado, pero secar un deseo inconsistente que va mas allá del objeto hurtado. El desarrollo normal involucra las dinámicas internas previamente descritas entre niño-familia (o niño-madre como anteriormente se ejemplifico). Pero si estas dinámicas están ausentes, el niño tendrá una relación niño-sociedad. Buscara al mundo exterior para eso que le falta. El joven busca, y cree que lo encuentra en los objetos que hurta, pero adquirir el objeto que meramente simboliza a la madre o padre no es un sustituto real o satisfactorio. Como no lo encuentra los objetos, el todo del mundo exterior, pierde su sabor. Lo único que no cuestiona, o es decepcionante para el es el método de delincuencia: la violencia. Estas conductas antisociales no son determinantes de crimen, mas bien un S.O.S. para los demás y un grito que pide un mejor ambiente para su desarrollo o terapia personal.
+Primero es necesario recordar la existencia del inconsciente, pues los ladrones no buscan meramente el objeto robado, pero secar un deseo inconsistente que va mas allá del objeto hurtado. El desarrollo normal involucra las dinámicas internas previamente descritas entre niño-familia (o niño-madre como anteriormente se ejemplifico). Pero si estas dinámicas están ausentes, el niño tendrá una relación niño-sociedad. Buscara al mundo exterior para eso que le falta. El joven busca, y cree que lo encuentra en los objetos que hurta, pero adquirir el objeto que meramente simboliza a la madre o padre no es un sustituto real o satisfactorio. Como no lo encuentra los objetos, el todo del mundo exterior, pierde su sabor. Lo único que no cuestiona, o es decepcionante para el es el método de delincuencia: la violencia. Estas conductas antisociales no son determinantes de crimen, mas bien un S.O.S. para los demás y un grito que pide un mejor ambiente para su desarrollo.
 
 #### La tendencia antisocial 
 
+Como mencionamos anteriormente, el problema a resolver con comportamientos antisociales el el ambiente del desarrollo, el tratamiento psicoanalítico por si mismo no es suficiente si no viene con cambios ambientales. 
 
-
-
+> **Progreso: en pagina 25 de 45**
 
 
