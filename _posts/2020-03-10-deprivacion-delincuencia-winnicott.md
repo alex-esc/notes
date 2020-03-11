@@ -20,4 +20,6 @@ Se plantea una relación entre el odio, el amor y la violencia. Para Winncott la
 
 #### Las raíces de la agresión
 
+La violencia no es una manifestación que se desarrolla con las habilidades de sentir odio o celos. Mas bien son el único medio que tenemos para entender el mundo. Cuando un bebe este en el vientre, busca placer corporal mediante chocar su cuerpo contra la superficie del vientre. Eso lo ayuda a explorar, pero en esta etapa se esta explorando a si mismo, golpeando en el vientre el niño aprende donde empieza y donde termina su *self*. Una herramienta para el desarrollo del *self* es el uso de simbología, tanto como en los sueños (como un espacio de desarrollo meramente simbólico) como en el mundo real: el niño simbólicamente representa hacer otras acciones, como jugar a ser mama, y así se logra desarrollar. Las señales infantiles de violencia son, por estas rezones, un logro, y una señal de que el niño esta en buen camino.
 
+#### El desarrollo de la capacidad de preocuparse por el otro
