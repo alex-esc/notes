@@ -31,20 +31,11 @@ En el epicentro de la preocupación esta la culpa. Esta se desarrolla por la din
 Empezamos con dos lentes sobre la moral, la moral debe (1) ser impuesta por autoridad, o (2) ser generada por juicios propios. El superyó interfiere aquí, creando relaciones entre acciones cotidianas y deseos perversos y violentos. El niño siente culpa por sus ideas perversamente superyó-escas y así refuerza su juicio moral. Pero si la culpa que siente el niño viene acompañada de desconfianza de la madre se rompe la dinámica y no podrá reparar nada, por lo tanto no reparará su culpa y le sera genuina-mente dolorosa, perdiendo estos impulsos que normalmente formarían su moral, se volverá alguien incapaz de sentir culpa. Luego se introduce la idea de "el engaño", en el que el bebe desarrolla la capacidad de engañarse mediante la construcción del mundo, para así darle y encontrarle significado satisfactorio y sano para su salud mental. Pero un superyó dominante no permite el auto engaño, por eso el niño no es capas de desarrollar significado en su adolescencia y etapa adulta.
 
 
+#### Algunos aspectos psicológicos de la delincuencia juvenil
 
+Primero es necesario recordar la existencia del inconsciente, pues los ladrones no buscan meramente el objeto robado, pero secar un deseo inconsistente que va mas allá del objeto hurtado. El desarrollo normal involucra las dinámicas internas previamente descritas entre niño-familia (o niño-madre como anteriormente se ejemplifico). Pero si estas dinámicas están ausentes, el niño tendrá una relación niño-sociedad. Buscara al mundo exterior para eso que le falta. El joven busca, y cree que lo encuentra en los objetos que hurta, pero adquirir el objeto que meramente simboliza a la madre o padre no es un sustituto real o satisfactorio. Como no lo encuentra los objetos, el todo del mundo exterior, pierde su sabor. Lo único que no cuestiona, o es decepcionante para el es el método de delincuencia: la violencia. Estas conductas antisociales no son determinantes de crimen, mas bien un S.O.S. para los demás y un grito que pide un mejor ambiente para su desarrollo o terapia personal.
 
-
-
-
-
-
-
-
-
-
-
-
-
+#### La tendencia antisocial 
 
 
 
