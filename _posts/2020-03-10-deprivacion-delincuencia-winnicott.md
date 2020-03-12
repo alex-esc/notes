@@ -6,7 +6,7 @@ tags: "tarea, Primer Semestre, Metodos y técnicas de observación"
 
 # Deprivación y Delincuencia de D. Winnicott, Parte Dos: Un Reporte
 
-### 10 de Marzo, 2020
+### 11 de Marzo, 2020
 
 > Basado en las paginas 49-93, según el numero de pagina del documento digital, paginas 101-189 en el libro físico. 
 
@@ -39,6 +39,52 @@ Primero es necesario recordar la existencia del inconsciente, pues los ladrones 
 
 Como mencionamos anteriormente, el problema a resolver con comportamientos antisociales el el ambiente del desarrollo, el tratamiento psicoanalítico por si mismo no es suficiente si no viene con cambios ambientales. 
 
-> **Progreso: en pagina 25 de 45**
+
+##### Naturaleza de la tendencia antisocial 
+
+De nuevo hay un énfasis en el ambiente que rodea a quienes tienen estas tendencias, y como ellos persiguen un faltar inconsciente. Hace referencia a estas teorías como ideas Bowlby-anas, se habla de una deprivación como causa. Existe siempre una búsqueda de un objeto (de manera inconsciente) y al no ceder esta necesidad-deseo sucede la deprivación, o falta, de aquello que de estar presente en su desarrollo le causaría lastima al niño, luego de sentir esta culpa el sujeto busca reparar el daño hecho. Pero como nunca encontró el objeto, nunca sintió culpa ni ganas de reparar el daño, por ende tiende a no detenerse frente al daño, violencia, o conductas sin aprobación social.
+
+##### El robo
+
+El ladrón no busca el objeto hurtado, mas bien resolver sus necesidades inconscientes, generalmente la ausencia del afecto, presencia, dinámicas de, sus padres. Si no sucede una buena relación hogareña el niño tiende a sus comportamientos innatos y violentos; entre ellos el robo. También se presenta de manera temprana las ganas de causar fastidio. Esto se debe a que la estructura mental del niño tiende a generar regresiones de manera habitual.
+
+##### Primeras señales de la tendencia antisocial
+
+El hambre, la voracidad, es una temprana señal de estas tendencias. Pero esto es prácticamente normal, tanto así que el alimentar los deseos del *yo* y no los voraces deseos del *ello* es normal en cuestión de comida. La madre identifica que el bebé quiere mucha comida (deseo del *ello*) y deja de proveerla (atención al *yo*); este proceso (sin tratarse de comida, pero de fuerzas del *ello* contra el *yo*) es el método de terapia. Es por eso que esta señal es común, muchos niños tienen estas tendencias pero la madre hace una pseudo-terapia, una terapia materna como la llama Winnicott. También se presentan indicios antisociales en la compra de productos. Algunos adolescentes con tendencias antisociales buscan "el objeto" que les falto en el desarrollo, por medio de compras de *shopping mall* se busca este objeto. Esta también viene disfrazada de comportamiento normal, pero cuando el joven tiene el dinero para ceder su deseo objetal puede encontrar (o cree encontrar) lo que busca sin la necesidad de hurtar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
