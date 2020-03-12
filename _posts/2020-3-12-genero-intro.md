@@ -32,9 +32,10 @@ El sexo es una configuración de cromosomas, el genero es como se comporta una p
 En el desarrollo prenatal se determina el sexo, los cromosomas en el genoma humano. Pero al nacer sucede la *asignación de genero*, en la cual normalmente se asume que el niño tiene un sexo y genero de tipo masculino o femenino (algunas culturas determinan entre 3 géneros)
 
 No solo existen los géneros masculino y femenino, también hay personas de otras identidades de genero como:
-	+ *Cisgénero:* Si una persona es asignada un genero y lo acepta, no causa conflictos, entonces se trata de una persona cisgénero.
-	+ *Transgénero:* Quienes tienen un sexo determinado (digamos masculino) pero un genero de otro tipo (por ejemplo un a persona de genero femenino que tiene un sexo masculino). sucede cuando el genero asignado no se alinea con el genero real.
-	+ *No-binarios:* Cualquier otro tipo de genero afuera de masculino, femenino, sea asignado correctamente o no. Este termino general incluye a personas sin genero incluso. algunas personas son genero-fluidas, que se identifican como un genero diferente en diferentes situaciones.
+
++ **Cisgénero:** Si una persona es asignada un genero y lo acepta, no causa conflictos, entonces se trata de una persona cisgénero.
++ **Transgénero:** Quienes tienen un sexo determinado (digamos masculino) pero un genero de otro tipo (por ejemplo un a persona de genero femenino que tiene un sexo masculino). sucede cuando el genero asignado no se alinea con el genero real.
++ **No-binarios:** Cualquier otro tipo de genero afuera de masculino, femenino, sea asignado correctamente o no. Este termino general incluye a personas sin genero incluso. algunas personas son genero-fluidas, que se identifican como un genero diferente en diferentes situaciones.
 
 ## Orientación sexual
 
