@@ -62,6 +62,14 @@ El psicoanálisis no es el tratamiento adecuado para las tendencias antisociales
 
 #### Psicología de la separación
 
+La separación y la perdida están altamente vinculados. Como en el resto del texto, se habla principalmente de niños en desarrollo. Para los cuales el sufrir una perdida no es trágico por la perdida en si, por la falta del objeto en si, mas bien por que en tan temprana edad no existe la maduración para sanar.
+
+##### Psicología del duelo
+
+El duelo se trata de una perdida de un objeto, este llegara a ser odiado por consecuencia de la perdida. Primero el odio es grande, pero con el paso del tiempo se disminuye y elimina este odio interno. Pero los niños no tienen la madures para pasar por un duelo con éxito. El primer obstáculo es la comprensión. No se puede dejar de odiar algo que siquiera se entiende, como la muerte para un bebé o explicarle a un niño que es adoptado. La permanencia o perdida del objeto (materno o hogareño) determina si el niño desarrolla o pierde la capacidad de la preocupación. Estos elementos en conjunto (comprensión + preocupación) forman las bases para llevar a cabo un duelo.
+
+<!-- #### Agresión, culpa y reparación -->
+
 
 
 
