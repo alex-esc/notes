@@ -54,6 +54,14 @@ El hambre, la voracidad, es una temprana señal de estas tendencias. Pero esto e
 
 ##### La perdida original
 
+El hecho que quienes se comportan de manera antisocial busquen un objeto que pertenece al ambiente (como robar, buscar aprobación de quienes lo rodean) es una muestra de que ellos entienden que su carencia es ambiental. En su desarrollo sucede una tensión al solidificar el *yo*, las actitudes del *ello* son canonizadas en lugar de ser las *yoicas*. Formando entonces comportamientos típicos de *ello* (ganas de buscar "el objeto", fastidiar, ser voraz). Los impulsos del *ello* en combinación con el auto-conocimiento que la carencia es ambiental llevan a la persona a buscar una manera de convertir al ambiente como algo activo y estimulante. Por eso hacen del ambiente "una aventura" mediante el constante juego en contra del ambiente. Las actitudes antisociales son una manera de tener al ambiente, al objeto perdido, cerca de sí.
+
+##### Tratamiento
+
+El psicoanálisis no es el tratamiento adecuado para las tendencias antisociales, un ambiente que reconstruya la dinámica *yo-ello* lo es.
+
+#### Psicología de la separación
+
 
 
 
