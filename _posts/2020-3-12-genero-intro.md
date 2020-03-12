@@ -39,7 +39,7 @@ No solo existen los géneros masculino y femenino, también hay personas de otra
 
 ## Orientación sexual
 
-> *¿Quien te es atractivo?*
+> *¿Con quien prefieres una relación romántica? ¿Quien te es atractivo?*
 
 
 ## Expresión de genero
