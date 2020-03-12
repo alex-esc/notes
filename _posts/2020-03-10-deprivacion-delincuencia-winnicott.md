@@ -52,6 +52,8 @@ El ladrón no busca el objeto hurtado, mas bien resolver sus necesidades inconsc
 
 El hambre, la voracidad, es una temprana señal de estas tendencias. Pero esto es prácticamente normal, tanto así que el alimentar los deseos del *yo* y no los voraces deseos del *ello* es normal en cuestión de comida. La madre identifica que el bebé quiere mucha comida (deseo del *ello*) y deja de proveerla (atención al *yo*); este proceso (sin tratarse de comida, pero de fuerzas del *ello* contra el *yo*) es el método de terapia. Es por eso que esta señal es común, muchos niños tienen estas tendencias pero la madre hace una pseudo-terapia, una terapia materna como la llama Winnicott. También se presentan indicios antisociales en la compra de productos. Algunos adolescentes con tendencias antisociales buscan "el objeto" que les falto en el desarrollo, por medio de compras de *shopping mall* se busca este objeto. Esta también viene disfrazada de comportamiento normal, pero cuando el joven tiene el dinero para ceder su deseo objetal puede encontrar (o cree encontrar) lo que busca sin la necesidad de hurtar.
 
+##### La perdida original
+
 
 
 
